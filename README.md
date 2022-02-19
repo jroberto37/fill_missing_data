@@ -1,2 +1,5 @@
 # fill_missing_data
-An approach to fill in missing data from satellite imagery using data-intensive computing and DINEOF
+
+## Matlab Code
+
+To use download matlab code just open main_download_chlora.m and adjust the global parameters and click on run button in the editor tab
