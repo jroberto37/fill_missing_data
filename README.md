@@ -1,4 +1,4 @@
-# fill_missing_data how to used
+# fill_missing_data how to use it
 
 ## Matlab Code
 
