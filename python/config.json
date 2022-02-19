@@ -1,0 +1,30 @@
+{
+    "datestart":"2021-12-01",
+    "dateend":"2021-12-01",
+    "token":"",
+    "illuminations":"Day",
+    "W":-107.4,
+    "N":22.2,
+    "E":-105.6,
+    "S":20.6,
+    "products":[
+        {
+            "name":"MOD03",
+            "collections":61
+        },
+        {
+            "name":"MYD03",
+            "collections":61
+        },
+        {
+            "name":"VJ103DNB",
+            "collections":5201
+        },
+        {
+            "name":"VNP03MODLL",
+            "collections":5000
+        }                        
+    ]
+
+}
+
